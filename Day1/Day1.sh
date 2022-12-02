@@ -1,6 +1,6 @@
 #! /bin/bash
 
-file="data.txt"
+file="./data"
 sum=0
 largest_sum=0
 largest_sum2=0
