@@ -33,6 +33,7 @@ for i = 1, #fileContent do
 
 end
 print("------")
+table.insert(sums, sum)
 
 table.sort(sums)
 
